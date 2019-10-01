@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\Salario mas 40 porciento\bin\Debug\Salario mas 40 porciento.exe.config
+E:\Google Drive\Proyects\Salario mas 40 porciento\bin\Debug\Salario mas 40 porciento.exe
+E:\Google Drive\Proyects\Salario mas 40 porciento\bin\Debug\Salario mas 40 porciento.pdb
+E:\Google Drive\Proyects\Salario mas 40 porciento\obj\Debug\Salario mas 40 porciento.csprojAssemblyReference.cache
+E:\Google Drive\Proyects\Salario mas 40 porciento\obj\Debug\Salario mas 40 porciento.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\Salario mas 40 porciento\obj\Debug\Salario mas 40 porciento.exe
+E:\Google Drive\Proyects\Salario mas 40 porciento\obj\Debug\Salario mas 40 porciento.pdb
